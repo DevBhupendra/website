@@ -1,0 +1,23 @@
+name
+
+oneway/round trip
+
+how many days 
+
+how many member with you 
+
+mobile number 
+
+departure city
+
+email id 
+
+age 
+
+aadhar mediacl 
+
+dob
+
+date 
+
+
